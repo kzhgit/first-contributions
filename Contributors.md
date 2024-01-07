@@ -2,7 +2,7 @@
 - [Satyajit Patra] (https://github.com/SatyajitPatra06)
 - [Shahmeer malik](https://github.com/shahmeermalik1)
 - [Karuppaiah](https://github.com/akdinesh124)
-- [Kazuho](https://github.com/kzhgit) 
+- [Kazuho](https://github.com/kzhgit)
 - [Omkar Kulkarni](https://github.com/omkarkulkarnii)
 - [SohamKore](https://github.com/SohamKore)
 - [Palash Chitnavis](https://github.com/PalashChitnavis)
